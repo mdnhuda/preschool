@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+src/client/public
+target
+output
+.idea
+*.ipr
+*.iml
+
